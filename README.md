@@ -1,2 +1,2 @@
-# Hacker-Rank-Java-Basic-Solution-
+Certification
 Hacker Rank(Java Basic Solution)
